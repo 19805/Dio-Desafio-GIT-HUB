@@ -1,0 +1,19 @@
+#  Primeiros passos na criação inicial do site em HTML e Css (algumas resalvas)  #
+
+- introdução das tags:
+
+-  <!DOCTYPE HTML>
+
+- <html lang pt-br>
+
+- <head>
+      <charset UTF-8/>
+      <title> Drones </title>
+      <STYLE> </STYLE>
+  </head>
+
+  <body>
+
+  </body>
+
+  </html>
